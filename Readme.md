@@ -8,6 +8,7 @@ Many thanks for [rclone](https://rclone.org/) and [folderclone](https://github.c
 - [x] Windows system is supported
 
 __**English Tutorial with gclone and autorclone**__ https://www.uud.me/qiwenzalun/autorclone-gclone-win.html
+**Use remove.py to massively remove the Google Service Account's , usually you need to set it's the fileorganizer as role**
 
 Step 1. Copy code to your VPS or local machine
 ---------------------------------
