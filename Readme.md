@@ -7,6 +7,8 @@ Many thanks for [rclone](https://rclone.org/) and [folderclone](https://github.c
 - [x] automatically switch accounts when rclone copy/move/sync 
 - [x] Windows system is supported
 
+__**English Tutorial with gclone and autorclone**__ https://www.uud.me/qiwenzalun/autorclone-gclone-win.html
+
 Step 1. Copy code to your VPS or local machine
 ---------------------------------
 _Before everything, install python3. Because we use python as our programing language._
